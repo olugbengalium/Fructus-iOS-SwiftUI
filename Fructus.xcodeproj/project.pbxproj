@@ -78,6 +78,7 @@
 		3A6E1FC824C637130014D1C4 /* App */ = {
 			isa = PBXGroup;
 			children = (
+				3A422FEC24C9DD690038006B /* Data */,
 				3A7A5C9E24C35830009F0EF4 /* FructusApp.swift */,
 				3A7A5CA024C35830009F0EF4 /* ContentView.swift */,
 				3A268C4624C64CA7002E5B58 /* OnboardingView.swift */,
@@ -108,7 +109,6 @@
 			children = (
 				3A6E1FC824C637130014D1C4 /* App */,
 				3A92D17824C637FD0004D0E8 /* View */,
-				3A422FEC24C9DD690038006B /* Data */,
 				3A422FE924C9DB5B0038006B /* Model */,
 				3A7A5CA224C35831009F0EF4 /* Assets.xcassets */,
 				3A7A5CA724C35831009F0EF4 /* Info.plist */,
